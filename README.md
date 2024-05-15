@@ -17,6 +17,8 @@ Langage de programmation : Swift
 Environnement de développement : Xcode
 
 
-![Budget](https://github.com/LeSioud/Smart_Buy/assets/104577569/0511028c-1daa-4d0f-8a61-11ad0f21586e)
-![Main](https://github.com/LeSioud/Smart_Buy/assets/104577569/5fa5b81f-3915-40a7-821a-94f509b93809)
-![virtualCard](https://github.com/LeSioud/Smart_Buy/assets/104577569/c25c7875-156a-424b-8de1-cb8819d6c945)
+
+<img src="https://github.com/LeSioud/Smart_Buy/assets/104577569/0511028c-1daa-4d0f-8a61-11ad0f21586e)" alt="IMG_0437" width="300">
+<img src="https://github.com/LeSioud/Smart_Buy/assets/104577569/5fa5b81f-3915-40a7-821a-94f509b93809" width="300">
+<img src="https://github.com/LeSioud/Smart_Buy/assets/104577569/c25c7875-156a-424b-8de1-cb8819d6c945)" alt="IMG_0437" width="300">
+
